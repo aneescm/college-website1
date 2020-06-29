@@ -195,7 +195,7 @@ color: #FFFFFF;
 }
 .navbar.navbar-default .navbar-brand {
   height: auto;
-  padding: 16px 15px 16px;
+  padding: 3px 15px 3px;
   color:#FFFFFF;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
